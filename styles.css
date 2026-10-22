@@ -344,15 +344,15 @@ h1 {
 }
 
 .clock-zone-item:hover {
-    border-color: rgba(245, 158, 11, 0.45);
+    border-color: rgba(56, 189, 248, 0.45);
     background: rgba(15, 15, 15, 0.85);
-    box-shadow: 0 0 8px rgba(245, 158, 11, 0.2);
+    box-shadow: 0 0 10px rgba(56, 189, 248, 0.25);
 }
 
 .clock-zone-badge {
     font-size: 0.72rem;
     font-weight: 700;
-    color: #fcd34d;
+    color: #38bdf8;
     letter-spacing: 0.05em;
     text-transform: uppercase;
 }
@@ -368,16 +368,16 @@ h1 {
 .clock-zone-day {
     font-size: 0.68rem;
     padding: 2px 5px;
-    color: #94a3b8;
-    background: rgba(255, 255, 255, 0.06);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #7dd3fc;
+    background: rgba(56, 189, 248, 0.08);
+    border: 1px solid rgba(56, 189, 248, 0.2);
 }
 
 .clock-zone-item:hover .clock-zone-day {
-    color: #fcd34d;
-    background: rgba(245, 158, 11, 0.12);
-    border-color: rgba(245, 158, 11, 0.35);
-    box-shadow: 0 0 6px rgba(245, 158, 11, 0.15);
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.18);
+    border-color: rgba(56, 189, 248, 0.5);
+    box-shadow: 0 0 8px rgba(56, 189, 248, 0.25);
 }
 
 /* TABLE */
@@ -548,12 +548,12 @@ td:hover [class^="highlight-"] {
     box-shadow: 0 0 10px rgba(56, 189, 248, 0.2), inset 0 0 10px rgba(56, 189, 248, 0.1);
 }
 
-/* Time Zone: Amber/Gold Glow */
+/* Time Zone: Electric Blue Glow */
 .highlight-time {
-    background: rgba(245, 158, 11, 0.1);
-    color: #fcd34d;
-    border: 1px solid rgba(245, 158, 11, 0.5);
-    box-shadow: 0 0 10px rgba(245, 158, 11, 0.2), inset 0 0 10px rgba(245, 158, 11, 0.1);
+    background: rgba(56, 189, 248, 0.1);
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.5);
+    box-shadow: 0 0 10px rgba(56, 189, 248, 0.2), inset 0 0 10px rgba(56, 189, 248, 0.1);
 }
 
 /* XG: Teal Glow */
